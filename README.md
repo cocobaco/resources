@@ -8,6 +8,9 @@
 5. https://towardsdatascience.com/a-beginners-tutorial-on-building-an-ai-image-classifier-using-pytorch-6f85cb69cba7
 6. https://medium.com/ml2vec/intro-to-pytorch-with-image-classification-on-a-fashion-clothes-dataset-e589682df0c5
 7. https://pythonprogramming.net/analysis-visualization-deep-learning-neural-network-pytorch/
+8. https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+9. https://medium.com/@purnasaigudikandula/deep-view-on-transfer-learning-with-iamge-classification-pytorch-5cf963939575
+10. https://medium.com/datadriveninvestor/creating-a-pytorch-image-classifier-da9db139ba80
 
 
 ## Detection
