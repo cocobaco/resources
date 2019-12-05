@@ -11,6 +11,7 @@
 8. https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 9. https://medium.com/@purnasaigudikandula/deep-view-on-transfer-learning-with-iamge-classification-pytorch-5cf963939575
 10. https://medium.com/datadriveninvestor/creating-a-pytorch-image-classifier-da9db139ba80
+11. https://www.learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/
 
 
 ## Detection
