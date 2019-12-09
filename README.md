@@ -26,6 +26,7 @@
 2. http://pytolearn.csd.auth.gr/d1-hyptest/12/anova-one.html
 3. https://pythonfordatascience.org/anova-python/
 4. https://sebastianraschka.com/Articles/2014_python_lda.html
+5. https://cleverowl.uk/2015/07/01/using-one-way-anova-and-tukeys-test-to-compare-data-sets/
 
 ## Save model checkpoints
 1. https://machinelearningmastery.com/check-point-deep-learning-models-keras/
