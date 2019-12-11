@@ -20,6 +20,8 @@
 4. https://towardsdatascience.com/training-yolo-for-object-detection-in-pytorch-with-your-custom-dataset-the-simple-way-1aa6f56cf7d9
 5. https://medium.com/deepquestai/object-detection-training-preparing-your-custom-dataset-6248679f0d1d
 6. https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
+7. https://github.com/tzutalin/labelImg
+8. https://imageai.readthedocs.io/en/latest/customdetection/index.html
 
 ## Stats
 1. https://medium.com/@rrfd/f-tests-and-anovas-examples-with-the-iris-dataset-fe7caa3e21d0
@@ -39,6 +41,7 @@
 ## Transfer learning
 1. https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce
 2. https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+3. https://github.com/OlafenwaMoses/ImageAI/issues/8
 
 ## Papers
 1. http://www.arxiv-sanity.com/top
