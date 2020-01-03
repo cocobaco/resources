@@ -1,5 +1,8 @@
 # Resources
 
+## Python
+1. https://gist.github.com/evandrix/2030615 (Zen of Python)
+
 ## Image classification
 1. https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5
 2. https://medium.com/predict/using-pytorch-for-kaggles-famous-dogs-vs-cats-challenge-part-1-preprocessing-and-training-407017e1a10c
