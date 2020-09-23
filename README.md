@@ -3,6 +3,10 @@
 ## Python
 1. https://gist.github.com/evandrix/2030615 (Zen of Python)
 
+## Git
+1. https://learngitbranching.js.org/
+2. http://git-school.github.io/visualizing-git/
+
 ## Datasets
 1. http://vincentarelbundock.github.io/Rdatasets/datasets.html
 2. https://archive.ics.uci.edu/ml/datasets.php
