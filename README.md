@@ -7,6 +7,8 @@
 1. https://learngitbranching.js.org/
 2. http://git-school.github.io/visualizing-git/
 3. https://www.dataschool.io/how-to-contribute-on-github/
+4. https://www.greengeeks.com/tutorials/the-difference-between-git-reset-git-checkout-and-git-revert/
+5. https://swcarpentry.github.io/git-novice/
 
 ## Datasets
 1. http://vincentarelbundock.github.io/Rdatasets/datasets.html
